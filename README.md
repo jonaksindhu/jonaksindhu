@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonaksindhu
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning computer basics and then lead myself to QA Automation then lead and Test Architect someday
+- 🌱 I’m currently learning computer basics and then lead myself to QA Automation then Test lead and Test Architect someday
 - 💞️ I’m looking to collaborate on QA Automation
 - 📫 How to reach me jdlunarx@gmail.com
 
