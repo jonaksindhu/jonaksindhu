@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @jonaksindhu
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning computer basics and then lead myself to QA Automation then Test lead and Test Architect someday
-- 💞️ I’m looking to collaborate on QA Automation
-- 📫 How to reach me jdlunarx@gmail.com
+# 👋 Hi, I’m Jonak Sindhu  
 
-<!---
-jonaksindhu/jonaksindhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 **About Me:**  
+I’m a **Senior QA Engineer** with over 7 years of experience in ensuring software quality across web and mobile platforms. Skilled in automation frameworks, API testing, and delivering seamless user experiences.  
+
+👀 **Interests:**  
+- QA Automation  
+- Mobile & Web App Testing  
+- API Testing and Framework Development  
+
+📫 **Let’s Connect:**  
+- Email: [jdlunarx@gmail.com](mailto:jdlunarx@gmail.com)  
+- LinkedIn: [Jonak Sindhu Das](#) *https://www.linkedin.com/in/jonak-sindhu-das-a49313205/*  
+
+---
+
