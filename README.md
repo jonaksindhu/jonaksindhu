@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jonak Sindhu  
 
 🔍 **About Me:**  
-I’m a **Senior QA Engineer** with over 7 years of experience in ensuring software quality across web and mobile platforms. Skilled in automation frameworks, API testing, and delivering seamless user experiences.  
+**Senior QA Engineer** with 7+ years of expertise in blending manual and automation testing to ensure flawless digital experiences, excelling in API testing, robust frameworks, and delivering top-notch software quality across web and mobile platforms.  
 
 👀 **Interests:**  
 - QA Automation  
